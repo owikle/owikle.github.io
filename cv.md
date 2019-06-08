@@ -58,7 +58,7 @@ Becker, D., **Wikle, O.**, Scofield, R. “Voices of Gay Rodeo” [website], 201
  
 ### Presentations
 
-**Wikle, O."** "Listening with Our Eyes: Using Topic Modeling, Text Analysis, and Sound Studies Methodologies to Explore Literary Soundscapes." Presentation at Digital Humanities Summer Institute (DHSI) Colloquium and Conference 2019, University of Victoria, Victoria, British Columbia, CA, June 2019. 
+**Wikle, O."** "Listening with Our Eyes: Using Topic Modeling, Text Analysis, and Sound Studies Methodologies to Explore Literary Soundscapes." Presentation at Digital Humanities Summer Institute (DHSI) Colloquium and Conference 2019, University of Victoria, Victoria, British Columbia, CA, June 2019, [https://osf.io/haey3/](https://osf.io/haey3/). 
 
 **Wikle, O.** "Listening to the Blindfold Tests: A Sonic Community of 20th Century Jazz Artists." Presentation at SpokenWeb Symposium 2019: Resonant Practices in Communities of Sound, Simon Fraser University, Vancouver, British Columbia, CA, May 2019, [https://osf.io/wve94/](https://osf.io/wve94/).
 
