@@ -76,6 +76,8 @@ Abbazio, J., **Wikle, O.** “The INs and OUTs of the Music Library: Reflections
 
 ### Grants
 
+Becker, D., Doney, J., **Wikle, O.**, Williamson, E. (awarded 2019). ["CollectionBuilder: A Digital Exhibit Platform and Static Web Development Model for Libraries, Built by Librarians;"](https://www.imls.gov/grants/awarded/lg-34-19-0064-19) Institute of Museum and Library Services (IMLS) National Leadership Grants for Libraries, $99,873.00.
+
 Kelly-Riley, D., **Wikle, O.**, Williamson, E. (awarded 2018). “Modern Mosaics: Potlatch Riverside Oral History Project;” Idaho Humanities Council, $2,400.
 
 Karl, J., Kenyon, J., Ruyle, G., Pfander, J., Launchback, K., Hulet, A., Gornish, E., Winford, E., Hutchinson, B., Godfrey, B., **Wikle, O.**, Williamson, E., Rahr, M., Han, Y., Radio, E. (awarded 2018). “A National Grazingland Information System: Expanding GlobalRangelands.org Through a Grazingland Thesaurus and Mobile Content Access;” USDA-NRCS-NHQ, $616,588. 
