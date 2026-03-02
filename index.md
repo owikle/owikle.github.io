@@ -10,5 +10,5 @@ layout: home
 
 # Olivia M. Wikle
 
-## Digital Initiatives Librarian, University of Idaho
+Head of Digital Scholarship and Initiatives, Iowa State University
 
